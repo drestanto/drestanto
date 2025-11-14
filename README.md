@@ -6,10 +6,20 @@
 </p>
 
 ## **About me**
-- Back-End specialist
-- building [Dubius](https://dubius.id)
-- I’m currently open for an Intern or a new job opportunity
-- teaching Physics, Math, and IT as side hustles
+- 3+ years of experience in software engineering (medior) and 5+ years in technology, specializing in **end-to-end product development** with strong expertise in **back-end engineering**
+- Former **CTO** and **IT Manager**, with **1.5 years** building my own startup and **2 years** building tech directly under CEOs
+- Currently finishing my **Master’s degree at the University of Melbourne**, researching **Quantum Computing** (QAOA, quantum optimization, VRP)
+- Experienced tech speaker with workshops, talks, and recorded sessions on YouTube  
+  (sample talks: [Talk 1](https://www.youtube.com/watch?v=11NrJs3EYKo), [Talk 2](https://www.youtube.com/watch?v=PaALCHkhWPw))
+- Passionate about **back-end engineering**, **creative technology**, and **applied AI**
+- Building the Indonesia-based community: **[Komputasi Kuantum Indonesia](https://github.com/Komputasi-Kuantum-ID)**
+- My works & craft:  
+  • GitHub: https://github.com/drestanto  
+  • Devpost: https://devpost.com/drestanto  
+  • Articles: https://www.temanproduk.com/author/dyas  
+  • Portfolio: https://drive.google.com/file/d/1SydJ4mZoC-A0bmQMTiaFHcyqZh6jX9xz/view  
+- Open for **collaborations, workshops, classes,** or **engineering roles**
+- Teaching **physics, informatics, and math** as a side hustle
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
