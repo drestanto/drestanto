@@ -16,8 +16,7 @@
 - My works & craft:  
   • GitHub: https://github.com/drestanto  
   • Devpost: https://devpost.com/drestanto  
-  • Articles: https://www.temanproduk.com/author/dyas  
-  • Portfolio: https://drive.google.com/file/d/1SydJ4mZoC-A0bmQMTiaFHcyqZh6jX9xz/view  
+  • Articles: https://www.temanproduk.com/author/dyas
 - Open for **collaborations, workshops, classes,** or **engineering roles**
 - Teaching **physics, informatics, and math** as a side hustle
 
