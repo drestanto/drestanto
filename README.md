@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi, I'm Drestanto Muhammad DYASputro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Enthusiast;Lifelong+Learner;ex-CTO,+ex-IT+Manager;ITB+Graduate;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Creative+Technologist;Lifelong+Learner;AI+Eater;Quantum+Computing+Enthusiast;ITB+and+UniMelb+Past+Student;">
+  </a>
 </p>
 
 <br>
@@ -10,10 +12,10 @@
 
 <br>
 
-- Back-End specialist
-- building [Dubius](https://dubius.id)
-- I’m currently open for an Intern or a new job opportunity
-- teaching Phyisics, Math, and IT as side hustles
+- Back-End specialist  
+- building [Dubius](https://dubius.id)  
+- I’m currently open for an Intern or a new job opportunity  
+- teaching Physics, Math, and IT as side hustles  
 
 <br><br>
 
@@ -26,24 +28,19 @@
 
 - **Languages**:
     
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
 - **Back-End Framework**:
 
    ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black)
+   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
@@ -61,7 +58,6 @@
 
 -----
 
-
 Credit: [Dyas](https://github.com/drestanto)
 
-Last Edited on: 2023/07/26
+Last Edited on: 2025/11/15
